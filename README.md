@@ -35,5 +35,6 @@ Here are some ideas to get you started:
 #### :couple: Cool people
 
 - [`SkyezerFox`](https://github.com/SkyezerFox)
+- [`Justin`](https://github.com/justasic)
 - [`vladfrangu`](https://github.com/vladfrangu)
 - [`kokumaji`](https://github.com/kokumaji)
