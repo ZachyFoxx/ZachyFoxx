@@ -14,7 +14,7 @@ Happy to be contacted about anything, be it code-related, fox-related, or whatev
 
 #### :telescope: Projects
 
-- [`LolBans`](https://github.com/NotZachery/lolbans-plugin) - An advanced punishment management system for Minecraft
+- [`LolBans`](https://github.com/RistEx-Software/lolbans-plugin) - An advanced punishment management system for Minecraft
 
 Want to use my code? Go ahead! 90% of my projects are under MIT or GPLv3
 
