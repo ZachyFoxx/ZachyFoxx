@@ -21,6 +21,6 @@ Want to use my code? Go ahead! 90% of my projects are under MIT or GPLv3
 #### :couple: Cool people
 
 - [`SkyezerFox`](https://github.com/SkyezerFox)
-- [`Justin`](https://github.com/justasic)
+- [`Alyx'](https://github.com/alyx)
 - [`vladfrangu`](https://github.com/vladfrangu)
 - [`kokumaji`](https://github.com/kokumaji)
