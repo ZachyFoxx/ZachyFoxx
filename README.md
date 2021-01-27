@@ -6,7 +6,7 @@ Want to contact me? Use any of these platforms!
 - <img src="https://raw.githubusercontent.com/skyezerfox/skyezerfox/master/logo-telegram.svg" width="24px" align="top"> [`@ZachyFox`](https://t.me/zachyfox)
 - <img src="https://raw.githubusercontent.com/skyezerfox/skyezerfox/master/logo-discord.svg" width="24px" align="top"> [`Zachery#0001`](https://discord.com/users/359098534307299329)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zacheryfox&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacheryfox&langs_count=8&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zachyfoxx&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachyfoxx&langs_count=8&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 > Stats by [`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats) :heart:
 
