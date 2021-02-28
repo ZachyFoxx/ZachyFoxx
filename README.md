@@ -12,8 +12,8 @@ Want to contact me? Use any of these platforms!
 
 #### :telescope: Projects
 
-- [`LolBans`](https://github.com/RistEx-Software/lolbans-plugin) - An advanced punishment management system for Minecraft
 - [`StickyAPI`](https://github.com/DumbDogDiner/StickyAPI) - Utility methods, classes and potentially code-dupe-annihilating code for DDD plugins.
+- [`StickyCommands`](https://github.com/DumbDogDiner/StickyCommands) - Light-weight essentials replacement for @DumbDogDiner
 
 
 Want to use my code? Go ahead! 99% of my projects are under MIT or GPLv3
