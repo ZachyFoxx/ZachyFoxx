@@ -1,5 +1,5 @@
 ### Hey there!
-I'm Zachery, and I like to complain about stuff and program for a block game! 
+I'm Zachery, and I like to complain about stuff and program for a block game! I am fluent in `Java`, [`Kotlin`](https://github.com/JetBrains/kotlin), and [`Typescript`](https://github.com/microsoft/TypeScript), and I am learning [`Rust`](https://github.com/rust-lang/rust) and [`Go`](https://github.com/golang/go/).
 
 Want to contact me? Use any of these platforms!
 - <img src="https://raw.githubusercontent.com/skyezerfox/skyezerfox/master/logo-twitter.svg" width="24px" align="top"> [`@ZachyFox`](https://twitter.com/zachyfox)
