@@ -12,6 +12,7 @@ Want to contact me? Use any of these platforms!
 
 #### :telescope: Projects
 
+- [`Hello Discod`](https://github.com/ZachyFoxx/hello-discord) - A Discord moderation bot in every computer language.
 - [`StickyAPI`](https://github.com/DumbDogDiner/StickyAPI) - Utility methods, classes and potentially code-dupe-annihilating code for DDD plugins.
 - [`StickyCommands`](https://github.com/DumbDogDiner/StickyCommands) - Light-weight essentials replacement for @DumbDogDiner
 
