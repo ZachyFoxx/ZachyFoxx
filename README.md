@@ -13,7 +13,7 @@ I'm Zachery, and I like to complain about stuff and program for a block game! I 
 - Discord: [`Zachery#0001`](https://discord.com/users/359098534307299329)
 - Email: [`zachery@foxboy.sh`](mailto:zachery@foxboy.sh)
 
-##### :couple: Cool people
+#### :couple: Cool people
 
 - [`SkyezerFox`](https://github.com/SkyezerFox)
 - [`Alyx`](https://github.com/alyx)
