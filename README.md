@@ -8,8 +8,8 @@ I'm Zachery, and I like to complain about stuff and program for a block game! I 
 - [`StickyCommands`](https://github.com/DumbDogDiner/StickyCommands) - Light-weight essentials replacement for @DumbDogDiner
 
 ### 📫 Ways to contact me
-- Twitter: [`@ZachyFox`](https://twitter.com/zachyfox)
-- Telegram: [`@ZachyFox`](https://t.me/zachyfox)
+- Twitter: [`@ZachyFoxx`](https://twitter.com/zachyfoxx)
+- Telegram: [`@ZachyFoxx`](https://t.me/zachyfoxx)
 - Discord: [`Zachery#0001`](https://discord.com/users/359098534307299329)
 - Email: [`zachery@foxboy.sh`](mailto:zachery@foxboy.sh)
 
