@@ -7,13 +7,13 @@ I'm Zachery, and I like to complain about stuff and program for a block game! I 
 - [`StickyAPI`](https://github.com/DumbDogDiner/StickyAPI) - Utility methods, classes and potentially code-dupe-annihilating code for DDD plugins.
 - [`StickyCommands`](https://github.com/DumbDogDiner/StickyCommands) - Light-weight essentials replacement for @DumbDogDiner
 
-### 📫 Ways to contact me
+#### 📫 Ways to contact me
 - Twitter: [`@ZachyFoxx`](https://twitter.com/zachyfoxx)
 - Telegram: [`@ZachyFoxx`](https://t.me/zachyfoxx)
 - Discord: [`Zachery#0001`](https://discord.com/users/359098534307299329)
 - Email: [`zachery@foxboy.sh`](mailto:zachery@foxboy.sh)
 
-#### :couple: Cool people
+### :couple: Cool people
 
 - [`SkyezerFox`](https://github.com/SkyezerFox)
 - [`Alyx`](https://github.com/alyx)
