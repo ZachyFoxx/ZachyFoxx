@@ -3,7 +3,7 @@ I'm Zachery, and I like to complain about stuff and program for a block game! I 
 
 #### 🔭 Projects
 
-- [`Hello Discod`](https://github.com/ZachyFoxx/hello-discord) - A Discord moderation bot in every computer language.
+- [`Hello Discord`](https://github.com/ZachyFoxx/hello-discord) - A Discord moderation bot in every computer language.
 - [`StickyAPI`](https://github.com/DumbDogDiner/StickyAPI) - Utility methods, classes and potentially code-dupe-annihilating code for DDD plugins.
 - [`StickyCommands`](https://github.com/DumbDogDiner/StickyCommands) - Light-weight essentials replacement for @DumbDogDiner
 
