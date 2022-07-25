@@ -16,10 +16,10 @@ I'm Zachery, and I like to complain about stuff and program for a block game! I 
 
 #### :couple: Cool people
 
-- [`SkyezerFox`](https://github.com/SkyezerFox)
-- [`Alyx`](https://github.com/alyx)
+- [`Justasic`](https://github.com/justasic)
 - [`vladfrangu`](https://github.com/vladfrangu)
-- [`kokumaji`](https://github.com/kokumaji)
+- ['VulpoTheDev'](https://github.com/VulpoTheDev)
+- ['Kelwing'](https://github.com/Kelwing)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zachyfoxx&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachyfoxx&langs_count=8&layout=compact&hide=html,css,shell)](https://github.com/anuraghazra/github-readme-stats)
 
