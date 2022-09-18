@@ -16,7 +16,6 @@ I'm Zachery, and I like to complain about stuff and program for a block game! I 
 
 #### :couple: Cool people
 
-- [`Justasic`](https://github.com/justasic)
 - [`vladfrangu`](https://github.com/vladfrangu)
 - [`VulpoTheDev`](https://github.com/VulpoTheDev)
 - [`Kelwing`](https://github.com/Kelwing)
