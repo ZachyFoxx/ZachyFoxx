@@ -6,7 +6,7 @@ I'm Zachery, and I like to complain about stuff and program for a block game! I 
 - [`Hello Discord`](https://github.com/ZachyFoxx/hello-discord) - A Discord moderation bot in every computer language.
 - [`StickyAPI`](https://github.com/DumbDogDiner/StickyAPI) - Utility methods, classes and potentially code-dupe-annihilating code for DDD plugins.
 - [`StickyCommands`](https://github.com/DumbDogDiner/StickyCommands) - Light-weight essentials replacement for @DumbDogDiner
-- **SpamAPI** - A sentiment analysis web api, built in TypeScript and Tensorflow.
+- [`Damn`](https://damn.gg) - A cloud based Discord bot provider
 
 #### 📫 Ways to contact me
 - Twitter: [`@ZachyFoxx`](https://twitter.com/zachyfoxx)
